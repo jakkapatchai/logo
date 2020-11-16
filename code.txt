@@ -1,0 +1,5 @@
+(right 45)(fd 30)(right 135)(fd 100)
+(right 90)(fd 50)(right 90)(fd 50)(right 90)(fd 50)(left 90)(fd 50)(left 90)(fd 50)
+(right 90)(fd 50)(right 90)(fd 50)(right 90)(fd 50)(back 50)(left 90)(fd 50)(right 90)(fd 50)
+(fd 100)(left 135)(fd 90)(left 135)(fd 100)
+(left 90)(fd 50)(left 90)(fd 50)(left 90)(fd 50)(right 90)(fd 50)(right 90)(fd 50)
